@@ -1,6 +1,6 @@
 # Microsoft-clone-page
 
-[demo](https://awesome-drum-kit.netlify.app/)
+[demo](https://microsoft-clone-webpage.netlify.app/)
 
 ## it is a clone of microsoft webpage for practice purposes.
 
